@@ -1,6 +1,6 @@
- Assignment Results
+  Assignment Results
 
- matrix multiplication Results Table
+ 1) matrix multiplication Results Table
 
 | Test File        | Input Type / Size      | Expected Output | Actual Output | Simple Time  | Blocking Time  | Block Size | Status |
 |------------------|------------------------|-----------------|---------------|--------------|----------------|------------|--------|
