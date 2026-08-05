@@ -5,9 +5,9 @@ using namespace std;
 void csrgraph(vector<edgelist>& edges,int v,int e)
 {
     vector<int> degree(v,0);
-    for(auto& edge_row:edges)
+    for(auto& edge:edges)
     {
-        degree[edge_row.source]+=1;
+        degree[edge.source]+=1;
     }
 
     vector<int> row_pointer(v+1,0);
